@@ -1,3 +1,2 @@
 payload:
-# 自建分流
-- DOMAIN-SUFFIX,bet.hkjc.com
+  - DOMAIN-SUFFIX,bet.hkjc.com
