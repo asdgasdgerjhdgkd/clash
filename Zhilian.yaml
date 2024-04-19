@@ -1,5 +1,5 @@
 payload:
-  - DOMAIN-SUFFIX,zhihu.com 
+  - DOMAIN-SUFFIX,zhihu.com  
   - DOMAIN-SUFFIX,zhimg.com 
   - IP-CIDR,103.41.167.226/32
   - IP-CIDR,103.41.167.234/31 
