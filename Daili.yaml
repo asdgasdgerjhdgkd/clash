@@ -1,4 +1,3 @@
-payload:
-# NAME: Daili
-  - DOMAIN-SUFFIX,hkjc.com
+payload: 
+  - DOMAIN-SUFFIX,hkjc.com 
   - DOMAIN-SUFFIX,mtalk.google.com
