@@ -97,7 +97,7 @@ Select        :  &S1   {type: select ,   use: [Subscribe] }
 proxy-providers: 
   Subscribe:
     <<: *C2
-    url: https://link.nobodys.uk/api/v1/client/subscribe?token=2959292d8f449293a4148044a1ad6902  #url:后填写你的订阅地址
+    url: //////  #url:后填写你的订阅地址
     path: ./Subscribe/Subscribe.yaml
     # URL后面填写格式1: 直接填写你的机场Clash订阅[单一订阅][推荐此种方式，避免订阅泄露]
     # URL后面填写格式2：https://sub.xeton.dev/sub?target=clash&url=请手动填入你的订阅[多机场订阅用|分割即可]&list=true&udp=false  
