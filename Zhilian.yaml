@@ -4,6 +4,7 @@ payload:
   - DOMAIN-KEYWORD,duvdx
   - DOMAIN-KEYWORD,rdpml
   - DOMAIN-KEYWORD,1kai
+  - DOMAIN-KEYWORD,zhihu
   - DOMAIN-SUFFIX,zhihu.com
   - DOMAIN-SUFFIX,zhimg.com
   - IP-CIDR,103.41.167.226/32
