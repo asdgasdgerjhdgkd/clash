@@ -4,3 +4,4 @@ payload:
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com
   - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-SUFFIX,linkedin.cn
+  - DOMAIN-KEYWORD,linkedin
