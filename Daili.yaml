@@ -2,6 +2,7 @@ payload:
   - DOMAIN-SUFFIX,hkjc.com
   - DOMAIN-SUFFIX,mtalk.google.com
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com
+  - DOMAIN-SUFFIX,rustdesk.com
   - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-SUFFIX,licdn.com
   - DOMAIN-SUFFIX,lnkd.in
