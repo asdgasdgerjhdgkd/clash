@@ -10,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,linkedinmail.com
   - DOMAIN-SUFFIX,linkedin.cn
   - DOMAIN-KEYWORD,linkedin
+  - DOMAIN-KEYWORD,zoho
